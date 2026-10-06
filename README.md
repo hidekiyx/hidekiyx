@@ -136,7 +136,7 @@ STATUS: LEARNING ███████████████████░ 95
 ## `> CURRENT_OBJECTIVES`
 
 ```bash
-leonardo@engineering:~$ ./current_mission.sh
+~$ ./current_mission.sh
 
 [01] ███████████████░░░  Improving Python
 [02] █████████████░░░░░  Learning C++
