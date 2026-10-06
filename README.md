@@ -111,19 +111,7 @@ STATUS: LEARNING ███████████████████░ 95
 
 ---
 
-## `> FEATURED_PROJECTS`
 
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_1&theme=transparent&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&bg_color=050505"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_2&theme=transparent&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&bg_color=050505"/>
-</a>
-
-</div>
 
 ### ⚡ Automation
 
