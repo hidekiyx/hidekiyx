@@ -153,59 +153,7 @@ NEXT OBJECTIVE: BUILD SOMETHING BETTER
 
 ---
 
-# `> GITHUB_ANALYTICS`
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=false&border_color=00FFFF&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=050505"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=false&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&bg_color=050505"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&background=050505&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=888888"/>
-
-</div>
-
----
-
-## `> ACTIVITY_MONITOR`
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=false"/>
-
-</div>
-
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION_PROTOCOL`
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-> Para a animação funcionar, é necessário configurar uma GitHub Action no repositório do perfil.
-
----
 
 ## `> CONNECTION_PROTOCOL`
 
